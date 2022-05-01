@@ -4,8 +4,6 @@
 
 CENTRAL BANKS are supposed to inspire confidence in the economy by keeping inflation low and stable. America’s Federal Reserve has suffered a hair-raising loss of control. In March consumer prices were 8.5% higher than a year earlier, the fastest annual rise since 1981. In Washington [[Inflation (en-US)|Inflation]]-watching is usually the preserve of wonks in shabby offices. Now nearly a fifth of Americans say inflation is the country’s most important problem; President Joe Biden has released oil from strategic reserves to try to curb petrol prices; and Democrats are searching for villains to blame, from greedy bosses to Vladimir Putin.
 
-![[Untitled Diagram.svg]]
-
 ### title
 [[note2]]
 
@@ -16,14 +14,6 @@ asfdsaf
 asdfansdif
 
 ---
-
-
-``` java
-public void main(){
-
-
-}
-```
 It is the Fed, however, that had the tools to stop inflation and failed to use them in time. The result is the worst overheating in a big and rich economy in the 30-year era of inflation-targeting central banks. The good news is that inflation may have peaked at last. But the Fed’s 2% target will remain a long way off—forcing agonising choices on the central bank. Apologists for America’s policymakers point to annual price rises of 7.5% in the euro area and 7% in Britain as evidence of a global problem, driven by the soaring price of commodities, especially since Russia’s invasion of Ukraine. Nearly three-quarters of the euro zone’s inflation is attributable to rocketing energy and food prices.
 
 America, though, benefits from abundant shale gas, and its higher incomes mean that staples have a smaller effect on average prices. Strip out energy and food and the euro zone’s inflation is 3%—but America’s is 6.5%. Also, America’s labour market, unlike Europe’s, is clearly overheating, with wages growing at an average pace of nearly 6%. Recent falls in the prices of oil, used cars and shipping probably mean that inflation will fall in the coming months. But it will stay far too high, given the underlying upward pressure on prices.
@@ -44,5 +34,3 @@ Does the Fed have the stomach to inflict such economic pain? Many economists adv
 
 My word is my bond
 Inflation that is stable and modestly above 2% might be tolerable for the real economy, but there is no guarantee the Fed’s stance today can deliver even that. And breaking promises has consequences. It hurts long-term bondholders, including foreign central banks and governments which own $4trn-worth of Treasury bonds. (A decade of 4% inflation instead of 2% would cut the purchasing power of money repaid at the end of that period by 18%.) It might add an inflation risk premium to America’s cost of borrowing. And if even America broke its inflation promises in tough times, investors might worry that other central banks—many of which are looking over their shoulders at indebted governments—would do the same. In the 1980s the recessions brought about by Paul Volcker’s Fed laid the foundations for inflation-targeting regimes worldwide. Every month inflation runs too hot, part of that hard-won credibility ebbs away.
-
-![[Diaggrama.svg]]
