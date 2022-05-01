@@ -26,8 +26,6 @@ An American contraction therefore hangs over the global economy as part of a tri
 
 Does the Fed have the stomach to inflict such economic pain? Many economists advocate higher inflation, because in the long run interest rates would go up in tandem, lifting them further away from zero, below which they are hard to cut in a crisis. Inflation is already helping the federal government by shrinking the real value of its debts. Around 2025, when the Fed reviews its policymaking framework, it will have the chance to raise the target. There is nothing special about 2%, except the fact that the Fed has promised it in the past.
 
-My word is my bond
+## My word is my bond
 Inflation that is stable and modestly above 2% might be tolerable for the real economy, but there is no guarantee the Fed’s stance today can deliver even that. And breaking promises has consequences. It hurts long-term bondholders, including foreign central banks and governments which own $4trn-worth of Treasury bonds. (A decade of 4% inflation instead of 2% would cut the purchasing power of money repaid at the end of that period by 18%.) It might add an inflation risk premium to America’s cost of borrowing. And if even America broke its inflation promises in tough times, investors might worry that other central banks—many of which are looking over their shoulders at indebted governments—would do the same. In the 1980s the recessions brought about by Paul Volcker’s Fed laid the foundations for inflation-targeting regimes worldwide. Every month inflation runs too hot, part of that hard-won credibility ebbs away.
 
-
-central
