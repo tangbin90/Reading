@@ -4,11 +4,23 @@
 
 CENTRAL BANKS are supposed to inspire confidence in the economy by keeping inflation low and stable. America’s Federal Reserve has suffered a hair-raising loss of control. In March consumer prices were 8.5% higher than a year earlier, the fastest annual rise since 1981. In Washington inflation-watching is usually the preserve of wonks in shabby offices. Now nearly a fifth of Americans say inflation is the country’s most important problem; President Joe Biden has released oil from strategic reserves to try to curb petrol prices; and Democrats are searching for villains to blame, from greedy bosses to Vladimir Putin.
 
+![[Untitled Diagram.svg]]
 
 ### title
+[[note2]]
+
+
+---
+asfdsaf
+
+---
+asdfansdif
+
+---
+
 
 ``` java
-public main(){
+public void main(){
 
 
 }
@@ -33,3 +45,5 @@ Does the Fed have the stomach to inflict such economic pain? Many economists adv
 
 My word is my bond
 Inflation that is stable and modestly above 2% might be tolerable for the real economy, but there is no guarantee the Fed’s stance today can deliver even that. And breaking promises has consequences. It hurts long-term bondholders, including foreign central banks and governments which own $4trn-worth of Treasury bonds. (A decade of 4% inflation instead of 2% would cut the purchasing power of money repaid at the end of that period by 18%.) It might add an inflation risk premium to America’s cost of borrowing. And if even America broke its inflation promises in tough times, investors might worry that other central banks—many of which are looking over their shoulders at indebted governments—would do the same. In the 1980s the recessions brought about by Paul Volcker’s Fed laid the foundations for inflation-targeting regimes worldwide. Every month inflation runs too hot, part of that hard-won credibility ebbs away.
+
+![[Diaggrama.svg]]
