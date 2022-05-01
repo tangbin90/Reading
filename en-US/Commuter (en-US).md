@@ -21,7 +21,7 @@ A person who regularly travels from one place to another, typically to work.
 
 ---
 
-A piece of transportation equipment used for the transportation of such persons.
+
 
 > He takes the commuter to headquarters at least once a week.
 
