@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "9e2ced594d46fa53",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d20a41429a317a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tewst.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5656b87fa842a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bc81caf22ba5f35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cbe594788c24379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d67b6b0d57d56b02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#this",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "228c1a68c82274f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "94366f1b31a82f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ba493d43e3c96f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tewst.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1965f9bf28756dff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cd3c1656a6bf5d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "764e77b989d25273",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0d20a41429a317a0",
+  "lastOpenFiles": [
+    "tewst.md",
+    "2022-05-01.md",
+    "Antoer Test.md",
+    "Economists-April-23.md",
+    "rewqrasfasd.md"
+  ]
+}
