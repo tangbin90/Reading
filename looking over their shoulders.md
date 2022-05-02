@@ -1,0 +1,1 @@
+If you say that someone is looking over their shoulder, you mean that they feel anxious all the time about what someone may do to them.

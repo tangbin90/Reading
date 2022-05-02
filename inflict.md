@@ -1,0 +1,1 @@
+to force someone to experience something very unpleasant:

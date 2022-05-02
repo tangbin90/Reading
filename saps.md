@@ -1,0 +1,1 @@
+to make someone weaker or take away strength or an important quality from someone, especially over a long period of time:
