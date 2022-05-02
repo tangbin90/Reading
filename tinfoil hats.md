@@ -1,0 +1,2 @@
+tinfoil hats
+used when talking about people who believe in conspiracy theories (= the belief that events or situations are the result of secret plans by powerful people), especially to refer to something that protects them from these secret plans:
