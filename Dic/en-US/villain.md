@@ -3,7 +3,7 @@
 aliases: ["Vil·lain"]
 ---
 
-# Vil·lain
+# villain
 
 ## Pronunciation
 

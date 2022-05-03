@@ -1,4 +1,3 @@
-**Chapter34: Broken Promises**
 Finn Kydland (b. 1943)
 Edward Prescott (b. 1940)
 # Time Inconsistency
@@ -14,12 +13,12 @@ So the result will be
 > They won’t take on more employment. The only effect of the government’s policy is to push up inflation.
 
 # Solution
-## Take advandageof shorterm effect
-> Although the government can’t normally influence employment, it sometimes can in the immediate future if it suddenly boosts the economy without people expecting it.In May it tries to do so, hoping to gain politically from a lower level of unemployment.
+## Take advantage of short-term effect
+> Although the government can’t normally influence employment, it sometimes can in the immediate future if it suddenly boosts the economy without people expecting it. In May it tries to do so, hoping to gain politically from a lower level of unemployment.
 
 ## Policy Discretion(自由裁量权 /dɪˈskreʃ.ən/)
-[Rule or Discretion](https://www.youtube.com/watch?v=0LjQbpIoLp8)
->The government doesn’t fail because it’s crooked or stupid; rather, its freedom to decide at every point in time leads it into self-defeating actions.But how can the government enforce it? It holds the levers of power and so will always break its own rule. The problem is that the more power it has, the less it seems to have. 
+![Rule or Discretion](https://www.youtube.com/watch?v=0LjQbpIoLp8)
+>The government doesn’t fail because it’s crooked or stupid; rather, its freedom to decide at every point in time leads it into self-defeating actions. But how can the government enforce it? It holds the levers of power and so will always break its own rule. The problem is that the more power it has, the less it seems to have. 
 
 
 ## Independent Central Bank
