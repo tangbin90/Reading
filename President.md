@@ -1,1 +1,0 @@
-(the title given to) the person who has the highest political position in a country that is a republic and who, in some of these countries, is the leader of the government:
