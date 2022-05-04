@@ -42,3 +42,4 @@ With technology, people can get rid of large volume of boring daily works. And t
 > he proposes a global tax on the fortunes of the world’s richest people. 
 
 But not likely to happen, cause the power and influence of hte world's tallest giants
+
