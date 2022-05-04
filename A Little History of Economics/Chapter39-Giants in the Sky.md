@@ -43,3 +43,6 @@ With technology, people can get rid of large volume of boring daily works. And t
 
 But not likely to happen, cause the power and influence of hte world's tallest giants
 
+``` ad-note
+this is a onote
+```

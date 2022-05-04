@@ -14,7 +14,11 @@ book_note:
 isbn10: 030023452X
 isbn13: 9780300234527
 ---
-[[Chapter34-Broken Promises]]
-[[Chapter39-Giants in the Sky]]
-[[Chapter40-Why Be an Economists]]
-[[Chapter38-Bankers Go Wild]]
+- [[Chapter33-Knowing Me, Knowing You]]
+- [[Chapter34-Broken Promises]]
+- [[Chapter35-Missing Women]]
+- [[Chapter36-Minds in Fog]]
+- [[Chapter37-Economics in the Real World]]
+- [[Chapter38-Bankers Go Wild]]
+- [[Chapter39-Giants in the Sky]]
+- [[Chapter40-Why Be an Economists]]

@@ -13,11 +13,11 @@ So the result will be
 > They won’t take on more employment. The only effect of the government’s policy is to push up inflation.
 
 # Solution
-## Take advantage of short-term effect
+## Take Advantage of Short-term Effect
 > Although the government can’t normally influence employment, it sometimes can in the immediate future if it suddenly boosts the economy without people expecting it. In May it tries to do so, hoping to gain politically from a lower level of unemployment.
 
-## Policy Discretion(自由裁量权 /dɪˈskreʃ.ən/)
-![Rule or Discretion](https://www.youtube.com/watch?v=0LjQbpIoLp8)
+## Policy [[Discretion]]
+[Rule or Discretion](https://www.youtube.com/watch?v=0LjQbpIoLp8)
 >The government doesn’t fail because it’s crooked or stupid; rather, its freedom to decide at every point in time leads it into self-defeating actions. But how can the government enforce it? It holds the levers of power and so will always break its own rule. The problem is that the more power it has, the less it seems to have. 
 
 
