@@ -17,7 +17,7 @@ So the result will be
 > Although the government can’t normally influence employment, it sometimes can in the immediate future if it suddenly boosts the economy without people expecting it. In May it tries to do so, hoping to gain politically from a lower level of unemployment.
 
 ## Policy [[Discretion]]
-[Rule or Discretion](https://www.youtube.com/watch?v=0LjQbpIoLp8)
+![Rule or Discretion](https://www.youtube.com/watch?v=0LjQbpIoLp8)
 >The government doesn’t fail because it’s crooked or stupid; rather, its freedom to decide at every point in time leads it into self-defeating actions. But how can the government enforce it? It holds the levers of power and so will always break its own rule. The problem is that the more power it has, the less it seems to have. 
 
 
