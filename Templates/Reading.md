@@ -1,6 +1,5 @@
 ## {{title}}
-{{date}}
-{{time}}
+=={{date}} {{time}}==
 
 ## Sentence
 
