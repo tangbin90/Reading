@@ -9,7 +9,7 @@ aliases: ["Bugles"]
  /ˈbjuː.ɡəl/
 
 ## Meanings
-![[Pasted image 20220510011107.png]]
+![[Bugles Picture.png]]
 ### Noun
 
 A horn used by hunters.
