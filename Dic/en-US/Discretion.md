@@ -31,3 +31,5 @@ The freedom to make one's own judgements.
 
 
 Discretion
+
+disposition
