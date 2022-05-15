@@ -14,7 +14,10 @@ book_note:
 isbn10: 030023452X
 isbn13: 9780300234527
 ---
-
+- [[Chapter11-A Perfect Balance]]
+- [[Chapter12-Shut Out the Sun]]
+- [[Chapter13-The Profits of War]]
+- [[Chapter14-The Noisy Trumpeter]]
 - [[Chapter15-Coke or Pepsi]]
 - [[Chapter16-The Man With a Plan]]
 - [[Chapter17-Flashing Your Cash]]
