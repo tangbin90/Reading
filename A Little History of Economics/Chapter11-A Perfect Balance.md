@@ -16,3 +16,5 @@ The balance between hotdogs and cans of Coke
 ## The Law of Demand
 **Alfred Marshall (1842–1924)**
 >Marshall combined the consumer and the firm in the theory of supply and demand, one of the most famous ideas in economics. A ‘demand curve’ links price with the quantity that people want. 
+
+>A firm produces another spoon if the extra revenue from selling it (marginal revenue) is higher than the cost of making it (marginal cost). As it produces more spoons it gets costlier to produce an extra one
