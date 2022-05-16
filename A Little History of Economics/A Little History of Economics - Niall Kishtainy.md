@@ -14,6 +14,7 @@ book_note:
 isbn10: 030023452X
 isbn13: 9780300234527
 ---
+- [[Chapter10-Workers of the World]]
 - [[Chapter11-A Perfect Balance]]
 - [[Chapter12-Shut Out the Sun]]
 - [[Chapter13-The Profits of War]]
