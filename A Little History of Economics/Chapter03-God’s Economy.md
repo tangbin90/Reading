@@ -1,4 +1,4 @@
-God: By the sweat of your brow will you eat your food.
+God: By the sweat of your brow will you eat your food.  
 Jesus Warn: People could love cloths jewels and money more than God
 
 ## The City of God

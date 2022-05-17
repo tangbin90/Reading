@@ -10,7 +10,7 @@ households manage their resources
 > Scarce: Poor societies face stark choice： meals or antibiotics for sick grandmother. Rich countries face choice about watch or iPad.
 - Economists, someone study the economy  
 	- merchandise, service, financial system  
-	- cool heads and warm hearts  
+	- cool heads and warm hearts    
 		- Describe the world like a scientist, but also with compassion for the human suffering around you.    
 	- self-critical eyes
 > the  ability to see beyond their own concerns and habitual ways of looking at the world. Learning from the past, and we might see more clearly how ours do.
