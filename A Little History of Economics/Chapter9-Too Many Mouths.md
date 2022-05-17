@@ -22,3 +22,9 @@ _An Essay on the principle of population, as it affects the future improvement o
 Two starting points
 >First, humans need food to survive. Second, they must have sex in order to reproduce. What’s more, they like having sex and will keep doing it.
 
+>Malthus was spelling out with [[Grim]] clarity the constraints facing people living in those early societies.
+
+
+
+### Opposition
+>Many economists who today study the growth of economies over the long term think that large populations go with healthy economies. People use up resources, but they also create new ones: more people mean more brains, and so more new ideas about how to produce society’s wealth.
