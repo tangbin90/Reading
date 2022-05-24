@@ -10,3 +10,6 @@ Party leaders have undertaken to purge the party of extremists.
 purgatory
 the place to which Roman Catholics believe that the spirits of dead people go and suffer for the evil acts that they did while they were alive, before they are able to go to heaven
 
+serendipity
+the fact of finding interesting or valuable things by chance
+
