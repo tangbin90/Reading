@@ -13,3 +13,6 @@ the place to which Roman Catholics believe that the spirits of dead people go an
 serendipity
 the fact of finding interesting or valuable things by chance
 
+impunity
+
+rectify
