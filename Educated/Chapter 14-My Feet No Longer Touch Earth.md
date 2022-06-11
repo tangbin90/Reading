@@ -1,0 +1,6 @@
+It took some time for me to realize that although Shawn looked the same, he wasn’t. He seemed lucid, but if you listened carefully his stories didn’t make They weren’t really stories at all, just one tangent after another.
+
+
+He did succumb to rages, moments of blind anger when all he wanted was to hurt someone. He had an intuition for nastiness, for saying the single most devastating thing, that left Mother in tears more nights than not. These rages changed, and worsened, as his physical strength improved, and I found myself cleaning the toilet every morning, knowing my head might be inside it before lunch. Mother said I was the only one who could calm him, and I persuaded myself that that was true. Who better? I thought. He doesn’t affect me.
+
+Reflecting on it now, I’m not sure the injury changed him that much, but I convinced myself that it had, and that any cruelty on his part was entirely new. I can read my journals from this period and trace the evolution—of a young girl rewriting her history. In the reality she constructed for herself nothing had been wrong before her brother fell off that pallet. I wish I had my best friend back, she wrote. Before his injury, I never got hurt at all.
