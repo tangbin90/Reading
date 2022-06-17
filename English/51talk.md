@@ -23,3 +23,6 @@ abomination
 If you say that something is an abomination, you think that it is completely unacceptable.
 
 vacuum
+
+[[Voracious]] reader
+
