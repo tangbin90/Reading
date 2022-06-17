@@ -26,3 +26,5 @@ vacuum
 
 [[Voracious]] reader
 
+subdue and appease
+
