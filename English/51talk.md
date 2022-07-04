@@ -28,3 +28,10 @@ vacuum
 
 subdue and appease
 
+annulment
+
+coitus
+
+consummated
+
+Canon Law
