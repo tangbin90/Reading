@@ -35,3 +35,5 @@ coitus
 consummated
 
 Canon Law
+
+discern
